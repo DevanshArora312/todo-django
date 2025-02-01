@@ -1,7 +1,8 @@
 # todo-django
 A simple todo app built with django
 
-![todo App](https://drive.google.com/file/d/1grqctB_OQGVBfnpgDE5cAgitz-xbcGfc/view?usp=sharing)
+![todo](https://github.com/user-attachments/assets/10874dac-06a0-4744-907f-f150bfc5f85e)
+
 ### Setup
 Clone the repository
 ```
